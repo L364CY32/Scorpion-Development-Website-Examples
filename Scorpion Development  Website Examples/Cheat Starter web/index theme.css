@@ -1,0 +1,28 @@
+body{
+    background-image: url(retor.gif);
+    background-size: 102%;
+}
+h1{
+    font:bolder; 
+    font-size: 50px;
+    color:rgb(212, 255, 0) ;
+}
+hr{
+    width:200px;
+
+    color:rgb(4, 201, 162);
+    border-radius: 3%;
+    background-color: rgba(240, 248, 255, 0.179);
+}
+
+div{
+
+    
+    border:1px solid;
+color: rgb(132, 0, 255);
+    background-color: rgba(255, 255, 255, 0.154);
+    border-radius: 5%;
+    
+}
+
+
